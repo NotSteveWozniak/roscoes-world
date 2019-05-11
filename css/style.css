@@ -1,0 +1,45 @@
+body {
+    background-image: url(/img/plastic_bigfoot.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+    font-family: 'ZCOOL KuaiLe', cursive;  
+}
+
+.vertical-text {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      /* Safari */
+    -webkit-transform: rotate(-90deg);
+
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=-3);
+
+    position: static;
+    top: 100px;
+    /*
+    right: 30px;
+    bottom: 80px;
+    */
+    left: -50px;
+
+    font-size: 3rem;
+    color: limegreen;
+}
+
+.photo-caption {
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    bottom: 15px;
+    left: 15x;
+    color: #fff;
+}
